@@ -25,6 +25,7 @@ This tool is great for **frontend developers**, **testers**, and **mobile app te
 
 ## 📂 Folder Structure
 
+```bash
 localhost-qr-server/
 ├── public/
 │   └── index.html         # Your static site files
@@ -33,6 +34,7 @@ localhost-qr-server/
 ├── package.json           # NPM scripts and dependencies
 ├── .gitignore             # Node modules ignored
 └── README.md              # You're reading this 😄
+```
 
 ---
 
