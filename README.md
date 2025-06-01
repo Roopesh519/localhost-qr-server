@@ -34,8 +34,6 @@ localhost-qr-server/
 ├── .gitignore             # Node modules ignored
 └── README.md              # You're reading this 😄
 
-````
-
 ---
 
 ## 🔧 How to Use
@@ -45,7 +43,7 @@ localhost-qr-server/
 ```bash
 git clone https://github.com/Roopesh519/localhost-qr-server.git
 cd localhost-qr-server
-````
+```
 
 ### 2. Install dependencies
 
@@ -154,9 +152,3 @@ MIT License. Use it, share it, hack it.
 
 Happy testing ✨
 
-```
-
----
-
-Let me know if you want to convert this into an NPM CLI tool next (`localhost-qr` command globally), or want to extend this with file watching, HTTPS support, or auto UI preview on mobile.
-```
