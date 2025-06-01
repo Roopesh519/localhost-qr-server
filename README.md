@@ -1,4 +1,3 @@
-```markdown
 # 📡 localhost-qr-server
 
 > Run a local server and instantly get a QR code to open it on your mobile device.
@@ -25,8 +24,6 @@ This tool is great for **frontend developers**, **testers**, and **mobile app te
 ---
 
 ## 📂 Folder Structure
-
-```
 
 localhost-qr-server/
 ├── public/
